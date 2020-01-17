@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">acctors</string>
+    <string name="email">Email:</string>
+    <string name="password">Пароль:</string>
+    <string name="signIn">Войти</string>
+    <string name="registerWord">Все еще не зарегистрированы?</string>
+    <string name="register">Зарегистрируйтесь</string>
+    <string name="tv_registration">Регистрация</string>
+    <string name="tv_actor">Актер</string>
+    <string name="tv_producer">Продюсер</string>
+</resources>
